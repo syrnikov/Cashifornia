@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/hero.png" alt="Cashifornia Hero Image" width="200">
+  <img src="/hero.png" alt="Cashifornia Hero Image" width="1000">
 </p>
 
 <h1 align="center">Cashifornia</h1>
