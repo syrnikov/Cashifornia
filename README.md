@@ -32,7 +32,7 @@ To get started with Cashifornia, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/Cashifornia.git
+   git clone https://github.com/syrnikov/Cashifornia.git
 Open the project in Xcode.
 
 Build and run the project on a simulator or device.
