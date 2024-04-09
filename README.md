@@ -6,6 +6,9 @@
 
 <p align="center">Smooth Number Animation in SwiftUI</p>
 
+<p align="center">
+  <img src="/demo.gif" width="800">
+</p>
 ---
 
 ## Overview
